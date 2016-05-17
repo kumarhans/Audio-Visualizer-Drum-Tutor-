@@ -1,7 +1,7 @@
 Read Me
 
 My project is an interactive drum tutor and audio visualizer. 
-It takes in real time audi and creates a visualization for it. 
+It takes in real time audio and creates a visualization for it. 
 My project also serves as a teaching tool to help drummers learn rudiments. 
 They can input their own rudiments to the program as well. 
 In order to run one must install python 2.7 as well as the following modules: 
