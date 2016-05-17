@@ -1,0 +1,2 @@
+Updates:
+None of the documents except timesheet were updated. I made a lot of progress on my project, however. I now have a good audio visualizer and a working drum tutor that plays the rudiment that the user has selected. I also got a metranome to work. Using multiple threads really helped me make progress this week.
